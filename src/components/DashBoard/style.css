@@ -1,0 +1,19 @@
+.home1 {
+    background-color: rgb(31, 36, 36);
+    margin: 2px 3px; padding: 2px 12px; color:azure;
+    border: 2px solid #eeeeee; border-radius: 10px;
+    font-size: 15px; cursor: pointer;
+    font-family: 'Baloo Bhai 2', cursive;
+}
+
+.dashboard {
+    background: rgb(2, 0, 36);
+    background: linear-gradient(
+      90deg,
+      rgba(2, 0, 36, 1) 0%,
+      rgba(189, 153, 184, 1) 50%,
+      rgba(7, 33, 38, 1) 100%
+    );
+    margin: 0;
+    height: 729px;
+}
